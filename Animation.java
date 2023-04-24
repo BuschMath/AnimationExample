@@ -11,8 +11,8 @@
     to finish using the join() method.
 
    By using concurrent programming techniques in this way, we can create complex 
-   and responsive animations that are able to run smoothly alongside other threads 
-   in our program. */
+    and responsive animations that are able to run smoothly alongside other threads 
+    in our program. */
 
 import javax.swing.*;
 import java.awt.*;
